@@ -1,2 +1,2 @@
 #!/bin/bash
-echo thirdline=$(sed -n '3p' filename)
+head --lines=3 iacta | tail --lines=1
