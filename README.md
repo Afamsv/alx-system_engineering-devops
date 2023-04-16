@@ -1,1 +1,1 @@
-attack_is_the_best_defense
+What happens when you type google.com in your browser and press Enter
